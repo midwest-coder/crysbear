@@ -14,15 +14,15 @@ p {
 }
 
 a {
-  color: #ffa621;
+  color: #03cffc;
 }
 
 a:hover {
-  color: #ed8e00;
+  color: #02a6ca;
 }
 
 .text-primary {
-  color: #ffa621 !important;
+  color: #03cffc !important;
 }
 
 h1,
@@ -61,12 +61,12 @@ h6 {
 }
 
 ::-moz-selection {
-  background: #ffa621;
+  background: #03cffc;
   text-shadow: none;
 }
 
 ::selection {
-  background: #ffa621;
+  background: #03cffc;
   text-shadow: none;
 }
 
@@ -93,13 +93,13 @@ img::-moz-selection {
 }
 
 .btn-primary {
-  background-color: #ffa621;
-  border-color: #ffa621;
+  background-color: #03cffc;
+  border-color: #03cffc;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fa9600 !important;
-  border-color: #fa9600 !important;
+  background-color: #03b0d6 !important;
+  border-color: #03b0d6 !important;
   color: white;
 }
 
@@ -119,17 +119,17 @@ img::-moz-selection {
   text-transform: uppercase;
   color: white;
   border: 0;
-  background-color: #ffa621;
+  background-color: #03cffc;
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 #mainNav .navbar-brand {
-  color: #ffa621;
+  color: #03cffc;
   font-family: 'Kaushan Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #ed8e00;
+  color: #02a6ca;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -142,7 +142,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #ffa621;
+  color: #03cffc;
 }
 
 @media (min-width: 992px) {
@@ -176,8 +176,8 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), color-stop(75%, rgba(0, 0, 0, 0.7)), to(#000)), url("../img/products/architecture-building-castle-402028.jpg");
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../img/products/architecture-building-castle-402028.jpg");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), color-stop(75%, rgba(0, 0, 0, 0.7)), to(#000)), url("../img/products/IMG_0171.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../img/products/IMG_0171.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -211,7 +211,7 @@ header.masthead .intro-text .intro-heading {
 
 @media (min-width: 768px) {
   header.masthead .intro-text {
-    padding-top: 150px;
+    padding-top: 200px;
   }
   header.masthead .intro-text img {
     max-height: 500px;
@@ -257,7 +257,7 @@ header.masthead .intro-text .intro-heading {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background: rgba(255, 166, 33, 0.9);
+  background: rgba(3, 207, 252, 0.9);
 }
 
 .products .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -399,8 +399,8 @@ header.masthead .intro-text .intro-heading {
 section#about {
   text-align: center;
   color: white;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 166, 33, 0.1)), color-stop(75%, rgba(0, 0, 0, 0.7)), to(#000)), url("../img/products/ancient-architecture-asian-architecture-2758567.jpg");
-  background: linear-gradient(to bottom, rgba(255, 166, 33, 0.1) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../img/products/ancient-architecture-asian-architecture-2758567.jpg");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), color-stop(75%, rgba(0, 0, 0, 0.7)), to(#000)), url("../img/products/IMG_9952.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../img/products/IMG_9952.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -477,7 +477,7 @@ section#about {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #ffa621;
+  background-color: #03cffc;
 }
 
 .timeline > li .timeline-image h4 {
@@ -516,7 +516,7 @@ section#about {
 }
 
 .timeline .timeline-heading h4.subheading {
-  color: #ffa621;
+  color: #03cffc;
   text-transform: none;
 }
 
@@ -650,7 +650,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-  border-color: #ffa621;
+  border-color: #03cffc;
   -webkit-box-shadow: none;
   box-shadow: none;
 }
@@ -720,5 +720,5 @@ ul.social-buttons li a {
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #ffa621;
+  background-color: #03cffc;
 }
